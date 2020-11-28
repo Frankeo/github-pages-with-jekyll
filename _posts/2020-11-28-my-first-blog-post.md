@@ -1,2 +1,4 @@
-## This is a Blog Test
-- Bla bla
+---
+title: "Random blog title"
+date: 2020-11-29
+---
